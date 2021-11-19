@@ -1,0 +1,19 @@
+program leccion6;
+const Pi:= 3.14156;
+var
+radio : Integer;
+entrada : char;
+if (entrada='s') or (entrada='S') then
+begin
+{ COMENTARIOS CON TODO 1 }
+(* COMENTARIOS CON TODO 2 *)
+// COMENTARIOS CON TODo 3
+(* dsfsdfsdfsdfsd
+ddsadasd 5
+*)
+{asdsadasdsadasdasdasd 55 AA
+DASDASDASDASDASDASD
+}
+end
+else
+end
